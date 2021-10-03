@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #5F939A;
+}
+
+.top {
+    position: relative;
+    padding-top: 5%;
+}
+
+.hat01 {
+    margin-top: 0;
+    font-size: 455%;
+    font-family: 'Sacramento', cursive;
+    color: #dbd3c4;
+}
+
+.p01 {
+    font-size: 25px;
+    font-family: 'Dela Gothic One', cursive;
+    color: #F2EDD7;
+}
+
+.botom-cloud {
+    position: absolute;
+    left: 30%;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 62%;
+    top: 5%;
+}
+
+.img001 {
+    position: relative;
+    top: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+hr {
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    color: #3A6351;
+}
+
+.midle {
+    position: relative;
+    display: inline-block;
+}
+
+.hat002 {
+    font-family: 'Dela Gothic One', cursive;
+    color: #bdb8a3;
+}
+
+.p02 {
+    width: 30%;
+    padding-left: 35%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F2EDD7;
+}
+
+.footer {
+    position: relative;
+    text-align: center;
+}
+
+.hat03 {
+    font-family: fantasy;
+    color: #bdb8a3;
+}
+
+.image04 {
+    height: 10%;
+    width: 10%;
+}
+
+table {
+    text-align: center;
+    padding-left: 47.5%;
+}
+
+.social {
+    width: 55px;
+    height: 55px;
+}
+
+.img02 {
+    position: relative;
+    top: 10px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.p03 {
+    width: 30%;
+    padding-left: 35%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F2EDD7;
+}
+
+.midle-cloud {
+    position: absolute;
+    left: 10%;
+    bottom: 10%;
+}
+
+.main-cloud {
+    position: absolute;
+    left: 70%;
+}
+
+.fotter-cloud {
+    position: absolute;
+    right: 80%;
+}
